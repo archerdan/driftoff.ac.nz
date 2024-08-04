@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Privacy Policy	</title>
-	<atom:link href="/privacy-policy/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://archerdan.github.io/driftoff.ac.nz/privacy-policy/feed/" rel="self" type="application/rss+xml" />
+	<link>https://archerdan.github.io/driftoff.ac.nz/</link>
 	<description></description>
 	<lastBuildDate>Tue, 23 Jul 2024 03:08:48 +0000</lastBuildDate>
 	<sy:updatePeriod>

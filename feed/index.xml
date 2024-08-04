@@ -9,8 +9,8 @@
 
 <channel>
 	<title>driftoff</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://archerdan.github.io/driftoff.ac.nz/feed/" rel="self" type="application/rss+xml" />
+	<link>https://archerdan.github.io/driftoff.ac.nz/</link>
 	<description></description>
 	<lastBuildDate>Thu, 01 Aug 2024 02:28:50 +0000</lastBuildDate>
 	<language>en-US</language>
