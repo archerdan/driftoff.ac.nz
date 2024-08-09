@@ -9,15 +9,23 @@
 
 <channel>
 	<title>driftoff</title>
-	<atom:link href="https://archerdan.github.io/driftoff.ac.nz/feed/" rel="self" type="application/rss+xml" />
-	<link>https://archerdan.github.io/driftoff.ac.nz/</link>
+	<atom:link href="https://driftoff.ac.nz/feed/" rel="self" type="application/rss+xml" />
+	<link>https://driftoff.ac.nz/</link>
 	<description></description>
-	<lastBuildDate>Thu, 01 Aug 2024 02:28:50 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 09 Aug 2024 02:29:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.6.1</generator>
+
+<image>
+	<url>https://driftoff.ac.nz/wp-content/uploads/2024/08/driftoff_web_logo.svg</url>
+	<title>driftoff</title>
+	<link>https://driftoff.ac.nz/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 </channel>
 </rss>
